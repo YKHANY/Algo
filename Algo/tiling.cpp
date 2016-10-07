@@ -23,6 +23,7 @@ lld tile(int n)
     return res%10007;
 }
 
+
 int main()
 {
     int n;
